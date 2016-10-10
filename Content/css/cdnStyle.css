@@ -13,3 +13,14 @@ body {
     height: 50px;
 }
 
+.row {
+    background-color: white;
+    border: 1px solid lightgrey;
+}
+
+.product {
+    padding: 25px;
+    
+}
+
+
