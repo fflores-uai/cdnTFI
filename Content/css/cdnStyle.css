@@ -2,33 +2,6 @@ body {
     background-color: #f8f8f8;
 }
 
-.item {
-
-
-}
-
-.item-data {
-    margin: 2px;
-    background-color: white;
-    height: 310px;
-    width: 220px;
-    padding-left: 10px;
-}
-
-.item a:hover {
-    color: indianred;
-}
-
-.img-item {
-    width: 200px;
-    height: 180px;
-}
-
-.img-container {
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
 #categorias {
     background-color: white;
     padding-top: 20px;
@@ -37,5 +10,6 @@ body {
 
 .search {
     text-align: right;
+    height: 50px;
 }
 
